@@ -28,7 +28,7 @@
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-valign-bottom-lg u-valign-bottom-xl u-valign-middle-xs u-sheet-1">
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
@@ -59,7 +59,7 @@
           </div>
         </nav>
         <a href="https://vclit.com/fGNTdS" class="u-border-none u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-dark-1 u-btn-1">YES, GIVE ME MY DISCOUNTED LINK!</a>
-        <img class="u-image u-image-1" src="images/logo_8.png" alt="" data-image-width="522" data-image-height="143" data-href="https://vclit.com/fGNTdS">
+        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/logo_81.png" alt="" data-image-width="84" data-image-height="143" data-href="https://vclit.com/fGNTdS">
       </div></header>
     <section class="u-clearfix u-section-1" id="sec-d584">
       <div class="u-clearfix u-sheet u-sheet-1">
@@ -69,9 +69,9 @@
               <div class="u-align-center u-container-style u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-white u-layout-cell-1" src="">
                 <div class="u-container-layout u-container-layout-1">
                   <h1 class="u-text u-text-default u-text-1">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-dark-1 u-btn-1" href="https://vclit.com/fGNTdS">QUIETUM PLUS</a>
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-dark-1 u-btn-1" href="https://officialquietumplus.herokuapp.com/offer.php">QUIETUM PLUS</a>
                   </h1>
-                  <p class="u-text u-text-2"><b> ORDER T​ODAY AND SAVE UPTO 594$!</b>
+                  <p class="u-text u-text-2"><b> ORDER AND SAVE UPTO 594$!</b>
                   </p>
                   <p class="u-text u-text-default-lg u-text-default-md u-text-default-xl u-text-3">
                     <span style="font-weight: 400;"> Your order today is protected by my iron-clad <span style="font-weight: 700;">100% money-back guarantee.</span>
@@ -89,7 +89,8 @@ peaceful time everyday, being able to hear your own thoughts again and
 to finally unwind.</span>
                     <span style="font-weight: 400;">
                       <br>
-                      <br>Right now, today, you can get a 30-day supply of Exipure for a simple, one-time fee of just <span style="font-weight: 700;">69$</span>
+                      <br>Right now, today, you can get a 30-day supply of Quietum Plus for a simple, one-time fee of just <span style="font-weight: 700;">6</span>
+                      <span style="font-weight: 700;">9$</span>
                       <br>
                       <br>We are so confident <span style="font-weight: 700;">you'll enjoy life-changing results</span> that we're prepared to back up the <span style="font-weight: 700;">Quietum Plus</span> with a <span style="font-weight: 700;">100% Satisfaction Guarantee</span> for the next 60 days.&nbsp;
                     </span>
@@ -121,7 +122,7 @@ to finally unwind.</span>
     </section>
     <section class="u-align-left u-clearfix u-palette-1-dark-2 u-section-4" id="carousel_6625">
       <div class="u-clearfix u-sheet u-valign-middle-sm u-sheet-1">
-        <h2 class="u-align-center u-text u-text-1"> What People Who Already Tried <a href="https://vclit.com/fGNTdS" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-light-1 u-btn-1">Quietum Plus</a> Say:
+        <h2 class="u-align-center u-text u-text-1">People Who Already Tried <a href="https://vclit.com/fGNTdS" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-light-1 u-btn-1">Quietum Plus</a> Say:
         </h2>
       </div>
     </section>
@@ -130,24 +131,24 @@ to finally unwind.</span>
         <div class="u-expanded-width u-list u-list-1">
           <div class="u-repeater u-repeater-1">
             <div class="u-align-center u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-1">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <div alt="" class="u-image u-image-circle u-image-1" src="" data-image-width="150" data-image-height="150"></div>
-                <h6 class="u-text u-text-1"><b> Jake Austin is happy with his new life…</b>
+                <h6 class="u-text u-text-1"><b> Joshua Lawson has shared the product with all his friends…&nbsp;</b>
                 </h6>
-                <p class="u-text u-text-2"> “I had a buzzing in my right ear and an annoying pulsing sensation in my
+                <p class="u-text u-text-2"> “For 5 years it felt like I had a tea kettle inside my brain. Now it’s all silence. How amazing is this?”</p>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+                <div alt="" class="u-image u-image-circle u-image-2" src="" data-image-width="150" data-image-height="150"></div>
+                <h6 class="u-text u-text-3"><b> Jake Austin is happy with his new life…</b>
+                </h6>
+                <p class="u-text u-text-4"> “I had a buzzing in my right ear and an annoying pulsing sensation in my
  left ear. But not anymore. It feels good to have my life back.” </p>
               </div>
             </div>
             <div class="u-align-center u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-2">
-                <div alt="" class="u-image u-image-circle u-image-2" src="" data-image-width="150" data-image-height="150"></div>
-                <h6 class="u-text u-text-3"><b> Joshua Lawson has shared the product with all his friends…&nbsp;</b>
-                </h6>
-                <p class="u-text u-text-4"> “For 5 years it felt like I had a tea kettle inside my brain. Now it’s all silence. How amazing is this?” </p>
-              </div>
-            </div>
-            <div class="u-align-center u-container-style u-list-item u-repeater-item">
-              <div class="u-container-layout u-similar-container u-container-layout-3">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                 <div alt="" class="u-image u-image-circle u-image-3" src="" data-image-width="150" data-image-height="150"></div>
                 <h6 class="u-text u-text-5"><b> Maddison Allen enjoys her quiet life…</b>
                 </h6>
@@ -160,7 +161,8 @@ to finally unwind.</span>
     </section>
     <section class="u-align-left u-clearfix u-palette-1-dark-2 u-section-6" id="carousel_5a8e">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-align-center u-text u-text-1"> 96% OF CUSTOMERS ORDER 6 BOTTLES! *Our Recommended Option</h2>
+        <h2 class="u-align-center u-text u-text-1"> 96% OF CUSTOMERS ORDER 6 BOTTLES! <span style="font-weight: 400;">*Our Recommended Option</span>
+        </h2>
         <a href="https://vclit.com/fGNTdS" class="u-border-none u-btn u-button-style u-hover-black u-palette-1-dark-1 u-btn-1">YES, GIVE ME MY DISCOUNTED LINK!</a>
       </div>
     </section>
@@ -358,7 +360,7 @@ in Neuro-Psychopharmacology and Biological Psychiatry. 2013 Jan
 Angelica Sinensis on Grafted Cochlea Stem Cells Apoptosis in Hearing 
 Impaired Rats. Journal of Audiology and Speech Pathology. 1998.
         </p>
-        <p class="u-small-text u-text u-text-variant u-text-3"> ©2023. 101 Lesler Street, Chicago, IL 30302</p>
+        <p class="u-small-text u-text u-text-variant u-text-3"> © 2023. 101 Chicago Street, Chicago, IL 30302</p>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
       <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
