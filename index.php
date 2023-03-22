@@ -89,8 +89,7 @@ peaceful time everyday, being able to hear your own thoughts again and
 to finally unwind.</span>
                     <span style="font-weight: 400;">
                       <br>
-                      <br>Right now, today, you can get a 30-day supply of Quietum Plus for a simple, one-time fee of just <span style="font-weight: 700;">6</span>
-                      <span style="font-weight: 700;">9$</span>
+                      <br>Right now, today, you can get a 30-day supply of Quietum Plus for a simple, one-time fee of just <span style="font-weight: 700;">69</span>
                       <br>
                       <br>We are so confident <span style="font-weight: 700;">you'll enjoy life-changing results</span> that we're prepared to back up the <span style="font-weight: 700;">Quietum Plus</span> with a <span style="font-weight: 700;">100% Satisfaction Guarantee</span> for the next 60 days.&nbsp;
                     </span>
